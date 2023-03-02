@@ -1,0 +1,12 @@
+body{
+    background-repeat: no-repeat;  
+    background-size: 100%; 
+}
+div{
+    width: 100%;
+}
+canvas {
+    border-width: 3px;
+    border-color: white;
+    border-style: solid;
+}
